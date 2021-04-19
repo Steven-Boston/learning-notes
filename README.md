@@ -1,4 +1,4 @@
-#An elegant repository for a more civilized age
+###An elegant repository for a more civilized age
 
 Learning in any arena requires a **growth mindset**. This means being open to new ideas, challenges, and most of all, failure and growth. To maintain this focus, I will have to keep several tenets in mind:
 
