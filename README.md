@@ -6,4 +6,6 @@ Learning in any arena requires a **growth mindset**. This means being open to ne
 - Use obstacles as a fulcrum for improvement.
 - Remember that everyone is on their own journey, and progresses at their own pace. 
 
->"What is the most important step a man can take? Always the next step." -Dalinar Kholin
+>"The most important step a man can take. It's not the first one, is it? 
+>"It's the *next* one. Always the next step, Dalinar." -Brandon Sanderson's *Oathbringer*
+
