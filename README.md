@@ -11,5 +11,5 @@ Learning in any arena requires a **growth mindset**. This means being open to ne
 This will be a hub page for all my reading notes while at codefellows. See my GitHub profile [here](https://github.com/Steven-Boston)
 
 ## Notes Directory
-- [Reading 102.1](reading-notes-102-1)
-- [Reading 102.2](reading-notes-102-2)
+- [Reading 102.1](reading-notes-102-1.md)
+- [Reading 102.2](reading-notes-102-2.md)
