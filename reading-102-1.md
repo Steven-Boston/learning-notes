@@ -29,4 +29,4 @@ Mastering markdown gives several other tips on the many uses of markdown for sim
 Github pages has a short video that provides an overview of Github's pages service. When working with coding projects on GitHub, pages can be used to easily publish simple informational webpages with basic formatting, and provides templates to simplify the process of publishing information. 
 
 ### [Github Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-  This is a useful Bookmark that give a succinct (if less introductory) list of syntax options for markdown, useful for referencing the techniques listed above and more. 
+  This is a useful Bookmark that gives a succinct (if less introductory) list of syntax options for markdown, useful for referencing the techniques listed above and more. 
