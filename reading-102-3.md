@@ -1,5 +1,5 @@
 # What is Git?
-    Git is version control system that allows for collaborative projects to be worked on in real time with changes maintained and clearly communicated, with the ability to revert to previous versions as needed.
+   Git is version control system that allows for collaborative projects to be worked on in real time with changes maintained and clearly communicated, with the ability to revert to previous versions as needed.
 ### Without Version control:
    - multiple variations of the same file
    - files keep building up 
@@ -44,4 +44,3 @@
    - each step must precede the next, or the process will fail
    - it is helpful to run 'git status' between each step to verify status
    - changes can be stored away for later use via 'git stash' and retrieved with 'git stash apply'
-   
