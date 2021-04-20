@@ -13,3 +13,4 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 ## Notes Directory
 - [Reading 102.1](reading-102-1.md)
 - [Reading 102.2](reading-102-2.md)
+- [Reading 102.3](reading-102-3.md)
