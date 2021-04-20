@@ -1,12 +1,12 @@
-# Reading 102-2: Text Editors
+# Reading 102-2: Text Editors and Terminal Commands
 
-## What are the key features of a text editor?
+### What are the key features of a text editor?
 - Code Completion
 - Syntax Highlighting
 - Visual presentation
 - Extensions
 
-## How do different text editors stack up?
+### How do different text editors stack up?
 
 ##### Notepad++
 - Free, Windows Only
@@ -30,4 +30,20 @@
 - Fast and responsive 
 
 ### Text Editors versus IDEs
-- While a text editor allows for basic text editing, an integrated developement environment also handles compiling and debugging, as well as file management.
+While a text editor allows for basic text editing, an integrated developement environment also handles compiling and debugging, as well as file management.
+
+## Notes on Terminal Commands 
+
+- Commands: 
+- ls: displays list of folders in current directory
+  * -l creates a long listing
+  * adding an argument with directory name lists that directory instead
+- cd {name of directory}: Change to listed directory
+- cd .. : moves UP one directory
+- la: 
+- touch: create new file
+- rm -rf {folder-name}: removes folder
+- pwd: (print working directory) displays current directory with extension
+- mkdir {name}: creates a folder
+- cp {item to copy} {file to copy to}: creates a copy of file
+- mv {filename} {destination}: moves file
