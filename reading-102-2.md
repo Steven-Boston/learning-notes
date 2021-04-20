@@ -47,3 +47,6 @@ While a text editor allows for basic text editing, an integrated developement en
 - mkdir {name}: creates a folder
 - cp {item to copy} {file to copy to}: creates a copy of file
 - mv {filename} {destination}: moves file
+
+
+[<<Return to Home](README.md)
