@@ -1,6 +1,6 @@
-#Reading Noes #1: Learning Markdown
+# Reading Noes #1: Learning Markdown
 
-###Mastering Markdown
+### Mastering Markdown
 Mastering Markdown Outlines Many useful tools offered within:
 
 Basic Text Functions:
@@ -25,8 +25,8 @@ Code Blocks:
 Alternatively, you can also use triple backticks on each end to create a fence for a code block with a similar result. 
 
 Mastering markdown gives several other tips on the many uses of markdown for simple webpage formatting in an approachable fashion. 
-###GitHub Pages
+### GitHub Pages
 Github pages has a short video that provides an overview of Github's pages service. When working with coding projects on GitHub, pages can be used to easily publish simple informational webpages with basic formatting, and provides templates to simplify the process of publishing information. 
 
-###[Github Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+### [Github Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
   This is a useful Bookmark that give a succinct (if less introductory) list of syntax options for markdown, useful for referencing the techniques listed above and more. 
