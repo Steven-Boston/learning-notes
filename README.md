@@ -8,3 +8,8 @@ Learning in any arena requires a **growth mindset**. This means being open to ne
 
 >"The most important step a man can take. It's not the first one, is it?<br/>"It's the *next* one. Always the next step, Dalinar." -Brandon Sanderson's *Oathbringer*
 
+This will be a hub page for all my reading notes while at codefellows. See my GitHub profile [here](https://github.com/Steven-Boston)
+
+##Notes Directory
+- [Reading 102.1]()
+- [Reading 102.2]()
