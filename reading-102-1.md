@@ -18,6 +18,7 @@ Headings and Blocks:
   Using # symbols at the start of a line creates larger heading text. Additional #'s up to six allow for smaller subheaders. 
   a > can be used to create a quote block:
   > Sometimes notes just have to be written out -Steven Boston
+
 Code Blocks: 
   When presenting code, a single backtick on either end lets you present it `message = 'without breaking stride'`. Four spaces give you more space to work with:
    message = "This can let you present multiple lines of code"
