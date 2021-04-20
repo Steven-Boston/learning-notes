@@ -21,8 +21,9 @@ Headings and Blocks:
 
 Code Blocks: 
   When presenting code, a single backtick on either end lets you present it `message = 'without breaking stride'`. Four spaces give you more space to work with:
-   message = "This can let you present multiple lines of code"
-   print(message)
+  
+    message = "This can let you present multiple lines of code"
+    print(message)
 Alternatively, you can also use triple backticks on each end to create a fence for a code block with a similar result. 
 
 Mastering markdown gives several other tips on the many uses of markdown for simple webpage formatting in an approachable fashion. 
