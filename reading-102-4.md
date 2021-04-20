@@ -1,5 +1,5 @@
-Reading notes for lecture/reading 04 to be recorded here
-
+Brief review of the clone/ACP process from Lab-03
+Went through the navigation structure process
 
 
 
