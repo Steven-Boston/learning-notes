@@ -18,4 +18,4 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 102.5](reading-102-5.md): CSS & Color
 - [Reading 102.6](reading-102-6.md): Writing Scripts/How Computers Work
 - [Reading 102.7](reading-102-7.md): Expressions, Operators, and Functions
-- [Reading 102.8](reading-102-8.md): TBD
+- [Reading 102.8](reading-102-8.md): Comparisons and Loops
