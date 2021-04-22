@@ -3,7 +3,7 @@
 ## Comparisons and Logical Operators (150-151, 156, 157) 
 ==, !=, >, <, >=, and <= (and === and !==) allow for **comparisons**, which return a true or false value by comparing two objects. 
 
-**logical operators** allow for the comparison of multiple comparison  operators in tandem. && checks if all items meet a condition, || checks if at least one item meets a condition. ! will invert an otherwise normal comparison, giving the opposite boolean. Logical operators evaluate left to right, and stop when the collected results are sufficient to make a determination. 
+**logical operators** allow for the comparison of multiple comparison  operators in tandem. && checks if all items meet a condition, `||` checks if at least one item meets a condition. ! will invert an otherwise normal comparison, giving the opposite boolean. Logical operators evaluate left to right, and stop when the collected results are sufficient to make a determination. 
 
 ## For and While Loops (170-173, 176)
 **Loops** check a condition and continually execute a set of actions some number of times. **for()** loops, which are generally used to execute an action a specific number of times, using a counter as a condition and increment that counter each execution. For example:
