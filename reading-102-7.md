@@ -1,4 +1,4 @@
-# Duckett Javascript
+# Duckett Javascript: Expressions, Operators, and Functions 
 ## Pages 1-24
 Javascript makes webpages more interactive. It has several primary uses:
 - Accesing content
