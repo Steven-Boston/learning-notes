@@ -25,8 +25,8 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 201.1](reading-201-1.md): HTML & Web Design, Writing Scripts
 - [Reading 201.2](reading-201-2.md): HTML Text Elements, Decisions and Loops in JS
 - [Reading 201.3](reading-201-3.md): HTML Lists, Control Flow with JS, and the CSS Box Model
-- [Reading 201.4](reading-201-4.md)
-- [Reading 201.5](reading-201-5.md)
+- [Reading 201.4](reading-201-4.md): Links, Functions, and Layout
+- [Reading 201.5](reading-201-5.md): Text, Color, and
 - [Reading 201.6](reading-201-6.md)
 - [Reading 201.7](reading-201-7.md)
 - [Reading 201.8](reading-201-8.md)
