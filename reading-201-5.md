@@ -6,10 +6,11 @@ Images form a critical part of most websites, and habdling them often requires s
 - src: necessary for linking the source of the image
 - alt: adds a description of the image for when it cannot be displayed
 - title: adds a title for the image that generally appears when it is hovered
--height/width: allows for inline coding that defines the dimensions of the image (probably better handled in CSS).
+- height/width: allows for inline coding that defines the dimensions of the image (probably better handled in CSS).
 
 ## Duckett HTML/CSS 11: Color
 this section from 102-5:
+
 Color in CSS can be applied to various elements. It can be specified in a few different ways: 
 - RGB values in the form of `{color: rgb(100.100.100);}` 
 - Hex Codes `{color: #ee3e80;}`
@@ -20,11 +21,12 @@ CSS3 allows for HSL (hue, saturation, lightness) codes to identify colors in the
 
 ## Duckett HTML/CSS 12: Text
 There are a small number of fonts that can be expected to be available on a user's computer, which effectively breakdown into five families:
-Serif: Georgia, Times New Roman
-Sans-Serif: Arial, Verdana, Helvetica
-MonoSpace: Courier, Courier New
-Cursive: Comic Sans, Monotype Corsiva,
-Fantasy (IMPACT, Haettenschwieler)
+
+- Serif: Georgia, Times New Roman
+- Sans-Serif: Arial, Verdana, Helvetica
+- MonoSpace: Courier, Courier New
+- Cursive: Comic Sans, Monotype Corsiva,
+- Fantasy (IMPACT, Haettenschwieler)
 There are also a number of keys to use on text: 
 - `font-family` allows one of these to be generally selected 
 - `font-size` gives opportinities to adjust the size. 
