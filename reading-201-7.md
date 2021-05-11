@@ -21,7 +21,7 @@ In this code block, the function "cat" initiates a type of object that can be cr
 
 can be used to add a method to the cat object type, which then lets us call that method in reference to any particular cat. Yunalesca doesn't have a method herself, but if we made one for the cat prototype then Yunalesca, being the clever cat that she is, could go find that method and run it anyhow. 
  
-[!](yunalesca.jpg)
+![Yuna](yunalesca.jpg)
 
 from there we have a plethora of options for manipulating the objects in conjunction with each other to create data visualizations and perform other calculations. Using object constructors in this way allows us to model a huge variety of situations with ease. 
 
