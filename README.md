@@ -29,7 +29,7 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 201.5](reading-201-5.md): Text, Color, and Images
 - [Reading 201.6](reading-201-6.md): Problem Domain, Objects, and the DOM
 - [Reading 201.7](reading-201-7.md): Object-Oriented Programming, HTML Tables, Global Object Documentation
-- [Reading 201.8](reading-201-8.md)
+- [Reading 201.8](reading-201-8.md): Layout 
 - [Reading 201.9](reading-201-9.md)
 - [Reading 201.10](reading-201-10.md)
 - [Reading 201.11](reading-201-11.md)
