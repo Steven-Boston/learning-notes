@@ -31,7 +31,7 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 201.7](reading-201-7.md): Object-Oriented Programming, HTML Tables, Global Object Documentation
 - [Reading 201.8](reading-201-8.md): Layout 
 - [Reading 201.9](reading-201-9.md): Forms and Events
-- [Reading 201.10](reading-201-10.md)
+- [Reading 201.10](reading-201-10.md): Debugging
 - [Reading 201.11](reading-201-11.md)
 - [Reading 201.12](reading-201-12.md)
 - [Reading 201.13](reading-201-13.md)

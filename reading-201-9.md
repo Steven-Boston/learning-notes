@@ -74,3 +74,5 @@ Events, when registered by the browser, are passed to the functions that handle 
 Event delegation is achieved by placing the eventListener onto a parent element with a target attribute that indicates which of the child attributes has triggered the event. This limits the number of different listeners needed and helps maintain efficiency. 
 
 The rest of chapter 6 covers handling specific categories of events in detail. 
+
+[<<Return to Home](README.md)
