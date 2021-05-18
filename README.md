@@ -12,28 +12,28 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 
 ## Notes Directory
 #### Code 102
-- [Reading 102.1](reading-102-1.md): Markdown
-- [Reading 102.2](reading-102-2.md): Text Editors
-- [Reading 102.3](reading-102-3.md): Git & GitHub
-- [Reading 102.4](reading-102-4.md): HTML & Web Design
-- [Reading 102.5](reading-102-5.md): CSS & Color
-- [Reading 102.6](reading-102-6.md): Writing Scripts/How Computers Work
-- [Reading 102.7](reading-102-7.md): Expressions, Operators, and Functions
-- [Reading 102.8](reading-102-8.md): Comparisons and Loops
+- [Reading 102.1](102-notes/reading-102-1.md): Markdown
+- [Reading 102.2](102-notes/reading-102-2.md): Text Editors
+- [Reading 102.3](102-notes/reading-102-3.md): Git & GitHub
+- [Reading 102.4](102-notes/reading-102-4.md): HTML & Web Design
+- [Reading 102.5](102-notes/reading-102-5.md): CSS & Color
+- [Reading 102.6](102-notes/reading-102-6.md): Writing Scripts/How Computers Work
+- [Reading 102.7](102-notes/reading-102-7.md): Expressions, Operators, and Functions
+- [Reading 102.8](102-notes/reading-102-8.md): Comparisons and Loops
 
 #### Code 201
-- [Reading 201.1](reading-201-1.md): HTML & Web Design, Writing Scripts
-- [Reading 201.2](reading-201-2.md): HTML Text Elements, Decisions and Loops in JS
-- [Reading 201.3](reading-201-3.md): HTML Lists, Control Flow with JS, and the CSS Box Model
-- [Reading 201.4](reading-201-4.md): Links, Functions, and Layout
-- [Reading 201.5](reading-201-5.md): Text, Color, and Images
-- [Reading 201.6](reading-201-6.md): Problem Domain, Objects, and the DOM
-- [Reading 201.7](reading-201-7.md): Object-Oriented Programming, HTML Tables, Global Object Documentation
-- [Reading 201.8](reading-201-8.md): Layout 
-- [Reading 201.9](reading-201-9.md): Forms and Events
-- [Reading 201.10](reading-201-10.md): Debugging
-- [Reading 201.11](reading-201-11.md): Audio, Images, Video
-- [Reading 201.12](reading-201-12.md)
-- [Reading 201.13](reading-201-13.md)
-- [Reading 201.14](reading-201-14.md)
-- [Reading 201.15](reading-201-15.md)
+- [Reading 201.1](201-notes/reading-201-1.md): HTML & Web Design, Writing Scripts
+- [Reading 201.2](201-notes/reading-201-2.md): HTML Text Elements, Decisions and Loops in JS
+- [Reading 201.3](201-notes/reading-201-3.md): HTML Lists, Control Flow with JS, and the CSS Box Model
+- [Reading 201.4](201-notes/reading-201-4.md): Links, Functions, and Layout
+- [Reading 201.5](201-notes/reading-201-5.md): Text, Color, and Images
+- [Reading 201.6](201-notes/reading-201-6.md): Problem Domain, Objects, and the DOM
+- [Reading 201.7](201-notes/reading-201-7.md): Object-Oriented Programming, HTML Tables, Global Object Documentation
+- [Reading 201.8](201-notes/reading-201-8.md): Layout 
+- [Reading 201.9](201-notes/reading-201-9.md): Forms and Events
+- [Reading 201.10](201-notes/reading-201-10.md): Debugging
+- [Reading 201.11](201-notes/reading-201-11.md): Audio, Images, Video
+- [Reading 201.12](201-notes/reading-201-12.md): Chart.js, Canvas API
+- [Reading 201.13](201-notes/reading-201-13.md)
+- [Reading 201.14](201-notes/reading-201-14.md)
+- [Reading 201.15](201-notes/reading-201-15.md)
