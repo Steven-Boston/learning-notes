@@ -34,6 +34,6 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 201.10](201-notes/reading-201-10.md): Debugging
 - [Reading 201.11](201-notes/reading-201-11.md): Audio, Images, Video
 - [Reading 201.12](201-notes/reading-201-12.md): Chart.js, Canvas API
-- [Reading 201.13](201-notes/reading-201-13.md)
-- [Reading 201.14](201-notes/reading-201-14.md)
-- [Reading 201.15](201-notes/reading-201-15.md)
+- [Reading 201.13](201-notes/reading-201-13.md): localStorage
+- [Reading 201.14](201-notes/reading-201-14.md): Transforms, Transitions, and Animations
+- [Reading 201.15](201-notes/reading-201-15.md): The secret in Team Dynamics
