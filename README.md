@@ -37,3 +37,20 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 201.13](201-notes/reading-201-13.md): localStorage
 - [Reading 201.14](201-notes/reading-201-14.md): Transforms, Transitions, and Animations
 - [Reading 201.15](201-notes/reading-201-15.md): The secret in Team Dynamics
+
+#### Code 301
+- [Reading 301.1](301-notes/reading-301-1.md): 
+- [Reading 301.2](301-notes/reading-301-2.md): 
+- [Reading 301.3](301-notes/reading-301-3.md): 
+- [Reading 301.4](301-notes/reading-301-4.md): 
+- [Reading 301.5](301-notes/reading-301-5.md): 
+- [Reading 301.6](301-notes/reading-301-6.md): 
+- [Reading 301.7](301-notes/reading-301-7.md):
+- [Reading 301.8](301-notes/reading-301-8.md): 
+- [Reading 301.9](301-notes/reading-301-9.md): 
+- [Reading 301.10](301-notes/reading-301-10.md): 
+- [Reading 301.11](301-notes/reading-301-11.md): 
+- [Reading 301.12](301-notes/reading-301-12.md): 
+- [Reading 301.13](301-notes/reading-301-13.md):
+- [Reading 301.14](301-notes/reading-301-14.md): 
+- [Reading 301.15](301-notes/reading-301-15.md): 
