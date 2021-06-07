@@ -39,7 +39,7 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 201.15](201-notes/reading-201-15.md): The secret in Team Dynamics
 
 #### Code 301
-- [Reading 301.1](301-notes/reading-301-1.md): 
+- [Reading 301.1](301-notes/reading-301-1.md): React: Components
 - [Reading 301.2](301-notes/reading-301-2.md): 
 - [Reading 301.3](301-notes/reading-301-3.md): 
 - [Reading 301.4](301-notes/reading-301-4.md): 
