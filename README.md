@@ -43,8 +43,8 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 301.2](301-notes/reading-301-2.md): React: State and Props
 - [Reading 301.3](301-notes/reading-301-3.md): Passing Functions as Props
 - [Reading 301.4](301-notes/reading-301-4.md): React: Forms
-- [Reading 301.5](301-notes/reading-301-5.md): React: 
-- [Reading 301.6](301-notes/reading-301-6.md): 
+- [Reading 301.5](301-notes/reading-301-5.md): React: Process
+- [Reading 301.6](301-notes/reading-301-6.md): Introduction to Node.js
 - [Reading 301.7](301-notes/reading-301-7.md):
 - [Reading 301.8](301-notes/reading-301-8.md): 
 - [Reading 301.9](301-notes/reading-301-9.md): 
