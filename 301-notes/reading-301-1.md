@@ -42,4 +42,4 @@ then, giving props to a component function lets us pass it `const ChildComponent
 [React Docs: Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
 [React DocsL Components and Props](https://reactjs.org/docs/components-and-props.html)
 
-[<<Return to Home](README.md) 
+[<<Return to Home](../README.md)

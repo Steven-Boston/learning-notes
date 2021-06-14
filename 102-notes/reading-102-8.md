@@ -19,4 +19,4 @@ will create a loop that checks n is less than 20, and executes the code if that 
 The above creates a loop similar to a for loop, but similar tactics could be used with slightly altered code to increment only if a response were given, and continue until 6 responses had been collected. 
 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

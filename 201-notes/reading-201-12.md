@@ -64,4 +64,4 @@ fillStyle and strokeStyle can be defined as properties of the canvas to control 
 
 fillText and strokeText are both options within canvas for adding text to drawings. This article covers another list of properties that can be used to style the drawn text, including font, size, and other similar properties to what is available in CSS. 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

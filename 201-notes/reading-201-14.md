@@ -40,3 +40,6 @@ Several links to sample animations were provided with this assignment, and I hav
 - [CSS3 Keyframes Animation](https://codepen.io/akshaychauhan/pen/oAfae)
 - [Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv)
 - [404 Animation](https://codepen.io/kieranfivestars/pen/MYdQxX)
+
+
+[<<Return to Home](../README.md)

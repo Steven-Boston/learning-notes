@@ -7,4 +7,4 @@ At the core of these dynamics lay psycological safety: the group's tendency towa
 
 What this research has revealed is actually quite straighforward: these little suppressions, small conflicts, and draining commitments to maintaining a certain 'appearance' in work environments can be the key to performing and feeling better in the workplace. 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

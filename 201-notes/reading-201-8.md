@@ -20,7 +20,7 @@ Layouts can be setup with either fixed or liquid dimensions in mind. Fixed layou
 
 Grid layout is a useful tool for composition in webpage design. There are a few common grids with 960px width shown on pages 389-90.
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)
 
 
 

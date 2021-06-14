@@ -49,4 +49,4 @@ While a text editor allows for basic text editing, an integrated developement en
 - mv {filename} {destination}: moves file
 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

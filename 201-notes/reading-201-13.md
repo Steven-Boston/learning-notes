@@ -13,4 +13,4 @@ changes made to localStorage generate events, which can be logged with eventlist
 Apart from localStorage, SQL and IndexedDB are scattered alternatives to solving the same issues. There is also a plethora of further reading to be called upon on the subject at the end of this article. 
 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

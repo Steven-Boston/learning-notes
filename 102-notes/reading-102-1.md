@@ -36,4 +36,4 @@ Github pages has a short video that provides an overview of Github's pages servi
   This is a useful Bookmark that gives a succinct (if less introductory) list of syntax options for markdown, useful for referencing the techniques listed above and more. 
 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

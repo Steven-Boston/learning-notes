@@ -11,7 +11,7 @@ Learning in any arena requires a **growth mindset**. This means being open to ne
 This will be a hub page for all my reading notes while at codefellows. See my GitHub profile [here](https://github.com/Steven-Boston)
 
 ## Notes Directory
-#### Code 102
+### Code 102
 - [Reading 102.1](102-notes/reading-102-1.md): Markdown
 - [Reading 102.2](102-notes/reading-102-2.md): Text Editors
 - [Reading 102.3](102-notes/reading-102-3.md): Git & GitHub
@@ -21,7 +21,7 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 102.7](102-notes/reading-102-7.md): Expressions, Operators, and Functions
 - [Reading 102.8](102-notes/reading-102-8.md): Comparisons and Loops
 
-#### Code 201
+### Code 201
 - [Reading 201.1](201-notes/reading-201-1.md): HTML & Web Design, Writing Scripts
 - [Reading 201.2](201-notes/reading-201-2.md): HTML Text Elements, Decisions and Loops in JS
 - [Reading 201.3](201-notes/reading-201-3.md): HTML Lists, Control Flow with JS, and the CSS Box Model
@@ -38,7 +38,7 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 201.14](201-notes/reading-201-14.md): Transforms, Transitions, and Animations
 - [Reading 201.15](201-notes/reading-201-15.md): The secret in Team Dynamics
 
-#### Code 301
+### Code 301
 - [Reading 301.1](301-notes/reading-301-1.md): React: Components
 - [Reading 301.2](301-notes/reading-301-2.md): React: State and Props
 - [Reading 301.3](301-notes/reading-301-3.md): Passing Functions as Props

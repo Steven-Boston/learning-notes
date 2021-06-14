@@ -56,4 +56,4 @@ Of the above formats, only GIF supports animation. That's kinda the end of the s
 And for this episode of reading notes, for that matter!
 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

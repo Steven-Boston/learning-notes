@@ -95,4 +95,4 @@ Commit messages can help maintain a project over a large period of time and/or c
 
 Chris also makes mention of the power of terminal commmands specific to git and their role in manipulating git's many functions, and recommends the book [Pro Git](https://git-scm.com/book/en/v2), which can be read online for free.
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

@@ -62,4 +62,4 @@ This chapter covers additional details needed to create a cohesive webpage:
 - Escape characters are avaliable to display characters used in HTML code, like brackets or quotation marks. 
 
 
-[<<Return to Home](README.md) 
+[<<Return to Home](../README.md)

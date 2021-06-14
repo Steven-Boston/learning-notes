@@ -113,4 +113,4 @@ The JavaScript recommended by the article, does several things:
 
 These things combined together allow for a basic but cohesive video experience to be built into your site. 
   
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

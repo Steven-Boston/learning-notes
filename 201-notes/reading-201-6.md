@@ -69,4 +69,4 @@ Once you are satisfied you have located the correct element, it is probably your
 
 The chapter outlines adding and removing HTML content as well as the properties used to manipulate the DOM directly in detail that is too broad to cover in these notes. The chapter then finishes by discussing common security issues presented by manipulating HTML, and how scripts from malicious code can threated your site as well as your (or your users') data. 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

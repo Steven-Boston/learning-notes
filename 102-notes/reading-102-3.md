@@ -45,4 +45,4 @@
    - it is helpful to run 'git status' between each step to verify status
    - changes can be stored away for later use via 'git stash' and retrieved with 'git stash apply'
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

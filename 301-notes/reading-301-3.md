@@ -24,4 +24,4 @@ This short video covers the techniques used to pass a function via props. The ho
 [React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
 [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 
-[<<Return to Home](README.md) 
+[<<Return to Home](../README.md)

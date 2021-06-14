@@ -21,4 +21,4 @@ Each of a computer's functions is done by a specific set of components. Input de
 ### Hardware and Software
 Programs give a set of guidelines as to how inputs should be processed. The CPU handles operations as governed by the Operating system, thereby allowing the computer to handle many programs simultaneously. 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

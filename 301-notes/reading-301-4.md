@@ -39,4 +39,4 @@ This looks like it could get messy quickly, but for simple multi-conditionals it
 [React Docs: Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 
 
-[<<Return to Home](README.md) 
+[<<Return to Home](../README.md)

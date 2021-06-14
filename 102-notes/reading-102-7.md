@@ -33,4 +33,4 @@ and then called later with simply `functionName()`, making performing the functi
 If information is needed, the function can be declared as `function functionName(info1, info2) {}` and then use the collected variables in its operations. 
 You can then let the returned value be stored in a variable or array. 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

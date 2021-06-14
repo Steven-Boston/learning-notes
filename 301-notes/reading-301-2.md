@@ -43,4 +43,4 @@ The above video provides a brief breakdown of the delineation of props and state
 - [React Tutorial through ‘Developer Tools’](https://reactjs.org/tutorial/tutorial.html)
 
 
-[<<Return to Home](README.md) 
+[<<Return to Home](../README.md)

@@ -75,4 +75,4 @@ Event delegation is achieved by placing the eventListener onto a parent element 
 
 The rest of chapter 6 covers handling specific categories of events in detail. 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)

@@ -82,4 +82,4 @@ Javascript is best written in a separate file from the webpage and then linked t
 
 `object.method(parameter)` is the base form of calling a javascript function. These can be created within the file or be basic javascript methods. 
 
-[<<Return to Home](README.md) 
+[<<Return to Home](../README.md) 

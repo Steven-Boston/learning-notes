@@ -20,4 +20,4 @@ The process of debugging outlined in this chapter is primarily a tutorial on wie
 
 In cases where we can see an error coming down the line, it can be useful to take matters into our own hands. `throw new Error('explanation')` manually forms an error and informs the user, saving time and energy waiting for it to inevitably arrive later. 
 
-[<<Return to Home](README.md)
+[<<Return to Home](../README.md)
