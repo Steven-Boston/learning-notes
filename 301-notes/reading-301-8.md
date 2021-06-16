@@ -8,7 +8,6 @@ This Microsoft document gives a more formal outline of the guidelines for creati
 REST is an outline for how to manage the data exchanges that are the core functionality of APIs. The core of this is the organization of the API being set up to streamline the service around the resources, and delivering them in a way that is well setup for use by a variety of applications. 
 
 
-
 ### Additional Bookmarks:
 
 [RegExr](https://regexr.com/)

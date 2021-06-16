@@ -46,7 +46,7 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 301.5](301-notes/reading-301-5.md): React: Process
 - [Reading 301.6](301-notes/reading-301-6.md): Introduction to Node.js
 - [Reading 301.7](301-notes/reading-301-7.md): REST
-- [Reading 301.8](301-notes/reading-301-8.md): 
+- [Reading 301.8](301-notes/reading-301-8.md): RESTful API design
 - [Reading 301.9](301-notes/reading-301-9.md): 
 - [Reading 301.10](301-notes/reading-301-10.md): 
 - [Reading 301.11](301-notes/reading-301-11.md): 
