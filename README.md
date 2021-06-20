@@ -49,7 +49,7 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 301.8](301-notes/reading-301-8.md): RESTful API design
 - [Reading 301.9](301-notes/reading-301-9.md): Functional Programming
 - [Reading 301.10](301-notes/reading-301-10.md): Memory Storage
-- [Reading 301.11](301-notes/reading-301-11.md): 
+- [Reading 301.11](301-notes/reading-301-11.md): Authentication
 - [Reading 301.12](301-notes/reading-301-12.md): 
 - [Reading 301.13](301-notes/reading-301-13.md):
 - [Reading 301.14](301-notes/reading-301-14.md): 
