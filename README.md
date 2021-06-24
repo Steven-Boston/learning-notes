@@ -52,5 +52,5 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 301.11](301-notes/reading-301-11.md): Authentication
 - [Reading 301.12](301-notes/reading-301-12.md): Mongo and Mongoose
 - [Reading 301.13](301-notes/reading-301-13.md): CRUD
-- [Reading 301.14](301-notes/reading-301-14.md): 
+- [Reading 301.14](301-notes/reading-301-14.md): Diversity and Inclusion in Tech
 - [Reading 301.15](301-notes/reading-301-15.md): 
