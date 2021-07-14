@@ -61,3 +61,5 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 ### Code 401: ASP.NET
 
 - [Reading 401.01](401-notes/reading-401-01.md): Exception Handling
+- [Reading 401.02](401-notes/reading-401-02.md): Unit Tests and Documentation
+- [Reading 401.03](401-notes/reading-401-03.md): File Manipulation and System.IO
