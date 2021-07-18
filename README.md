@@ -63,3 +63,6 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 401.01](401-notes/reading-401-01.md): Exception Handling
 - [Reading 401.02](401-notes/reading-401-02.md): Unit Tests and Documentation
 - [Reading 401.03](401-notes/reading-401-03.md): File Manipulation and System.IO
+- [Reading 401.04](401-notes/reading-401-04.md): Classes and Memory Manipulation
+- [Reading 401.05](401-notes/reading-401-05.md): Linked Lists 
+- [Reading 401.06](401-notes/reading-401-06.md): OOP Principles

@@ -25,3 +25,6 @@ Each of the above tutorials has detailed examples of uses that live within Syste
 - Most of the tools contained with in will need to be instanced. 
 - Streams can be a useful multidirectional tool for manipulating text documents. 
 
+
+
+[<<Return to Home](../README.md)
