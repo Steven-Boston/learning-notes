@@ -65,5 +65,6 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 401.03](401-notes/reading-401-03.md): File Manipulation and System.IO
 - [Reading 401.04](401-notes/reading-401-04.md): Classes and Memory Manipulation
 - [Reading 401.05](401-notes/reading-401-05.md): Linked Lists 
-- [Reading 401.06](401-notes/reading-401-06.md): OOP Principles.
+- [Reading 401.06](401-notes/reading-401-06.md): OOP Principles
 - [Reading 401-07](401-notes/reading-401-07.md): Interfaces
+- [Reading 401-08](401-notes/reading-401-08.md): Collections and Enums
