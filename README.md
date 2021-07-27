@@ -71,3 +71,4 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 401-09](401-notes/reading-401-09.md): LINQ
 - [Reading 401-10](401-notes/reading-401-10.md): Stacks and Queues
 - [Reading 401-11](401-notes/reading-401-11.md): ERD Systems
+- [Reading 401-12](401-notes/reading-401-12.md): Entity Framework
