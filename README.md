@@ -72,3 +72,8 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 401-10](401-notes/reading-401-10.md): Stacks and Queues
 - [Reading 401-11](401-notes/reading-401-11.md): ERD Systems
 - [Reading 401-12](401-notes/reading-401-12.md): Entity Framework
+- [Reading 401-13](401-notes/reading-401-13.md): Dependency Injection and Repository Design
+- [Reading 401-14](401-notes/reading-401-14.md): Routing and Navigation Properties
+- [Reading 401-15](401-notes/reading-401-15.md): Trees
+- [Reading 401-16](401-notes/reading-401-16.md): Refactoring with DTOs
+
