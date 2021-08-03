@@ -8,6 +8,8 @@ Data Transfer Objects are models for data that are specifically designed to send
 ## Joydip Kanjilal: Using DTOs
 This article is available [here](https://www.infoworld.com/article/3562271/how-to-use-data-transfer-objects-in-aspnet-core-31.html).
 
-Data transfer objects are useful for keeping responses to a manageable size as well as concealing the internal structures of a database. DTOs are used to manage data transfers between layers in an API, and as a result it is best if they are immutable. 
+Data transfer objects are useful for keeping responses to a manageable size as well as concealing the internal structures of a database. DTOs are used to manage data transfers between layers in an API, and as a result it is best if they are immutable.
+
+
 
 [<<Return to Home](../README.md)
