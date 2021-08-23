@@ -78,4 +78,4 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 401-16](401-notes/reading-401-16.md): Refactoring with DTOs
 - [Reading 401-17](401-notes/reading-401-17.md): Intro to Identity
 - [Reading 401-18](401-notes/reading-401-18.md): Identity
-
+- [Readging 401-30](401-notes/reading-401-30.md): HashTables
