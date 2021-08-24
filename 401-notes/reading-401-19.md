@@ -12,11 +12,7 @@ This article is available [here]().
 
 There are two sides of security that are dependent on each other, Authorization and Authentication. Authentication is the process of verifying who you are, whereas Authorization determines what you are allowed to do once we have ascertained your identity. 
 
-Naturally these processes begin with Authentication, which is done via claims. We can do this by specifying an AuthenticationType that we check in order to perform the Authentication, and then we
-
-## Rachit Gulati: JWT Authentication
-This article is available [here]().
-
+Naturally these processes begin with Authentication, which is done via claims. We can do this by specifying an AuthenticationType that we check in order to perform the Authentication.
 
 
 [<<Return to Home](../README.md)
