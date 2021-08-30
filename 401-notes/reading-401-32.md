@@ -20,3 +20,6 @@ Marius goes step by step through the process of useing view components, and ther
 - using dependency injection to enhance functionality.
 
  A view component is a useful tool for small-but-still-high-functioning pieces of pages. They can be implemented with most of the useful functions available to full views, but have the agility to be used in many contexts. 
+
+
+ [<<Return to Home](../README.md)

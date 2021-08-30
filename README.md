@@ -82,4 +82,6 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 401-26](401-notes/reading-401-26.md): MVC
 - [Reading 401-27](401-notes/reading-401-27.md): Forms in MVC
 - [Reading 401-28](401-notes/reading-401-28.md): Cookies
-- [Readging 401-30](401-notes/reading-401-30.md): HashTables
+- [Reading 401-30](401-notes/reading-401-30.md): HashTables
+- [Reading 401-32](401-notes/reading-401-32.md): View Components
+- [Reading 401-35](401-notes/reading-401-35.md): Graphs
