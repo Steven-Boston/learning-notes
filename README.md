@@ -83,5 +83,14 @@ This will be a hub page for all my reading notes while at codefellows. See my Gi
 - [Reading 401-27](401-notes/reading-401-27.md): Forms in MVC
 - [Reading 401-28](401-notes/reading-401-28.md): Cookies
 - [Reading 401-30](401-notes/reading-401-30.md): HashTables
+- [Reading 401-31](401-notes/reading-401-31.md): Razor Pages
 - [Reading 401-32](401-notes/reading-401-32.md): View Components
+- [Reading 401-33](401-notes/reading-401-33.md): Sendgrid
+- [Reading 401-34](401-notes/reading-401-34.md): Payment Processing
 - [Reading 401-35](401-notes/reading-401-35.md): Graphs
+- [Reading 401-37](401-notes/reading-401-37.md): React 1
+- [Reading 401-38](401-notes/reading-401-38.md): React 2
+- [Reading 401-39](401-notes/reading-401-39.md): React 3
+- [Reading 401-41](401-notes/reading-401-41.md): Unity 1
+- [Reading 401-42](401-notes/reading-401-42.md): Unity 2
+- [Reading 401-43](401-notes/reading-401-43.md): Ethics in Tech
